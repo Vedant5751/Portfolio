@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Complete Survery System",
+    "desc": "Built a Survey System about College Campus Life.",
+    "image": "notystackandroid",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/in/vedant-patil-8767aa275/recent-activity/all/",
+      "code": "https://github.com/Vedant5751/CodeClause/tree/main/Complete%20Survey%20System"
+    }
+  },
+  {
+    "name": "Weather App",
+    "desc": "Used Weather API to retrieve information about Place's weather condition.",
+    "image": "notystackandroid",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/in/vedant-patil-8767aa275/recent-activity/all/",
+      "code": "https://github.com/Vedant5751/COB-Web-Development/tree/main/Weather%20APP"
+    }
+  },
+  {
+    "name": "Graph Plotting",
+    "desc": "Plotted Graphs using Matplotlib from a Dataset.",
+    "image": "notystackandroid",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/in/vedant-patil-8767aa275/recent-activity/all/",
+      "code": "https://github.com/Vedant5751/COB-Data-Science/tree/main/Graphs%20Plotted"
+    }
+  },
+  {
+    "name": "Timer and Stopwatch",
+    "desc": "Integrated a Timer and Stopwatch in a website.",
+    "image": "notystackandroid",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/in/vedant-patil-8767aa275/recent-activity/all/",
+      "code": "https://github.com/Vedant5751/CodeClause/tree/main/Timer%20and%20Stopwatch"
+    }
+  },
+  {
+    "name": "Website Landing Page",
+    "desc": "Made a Responsive Website Landing Page for CodesOnBytes.",
+    "image": "notystackandroid",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/in/vedant-patil-8767aa275/recent-activity/all/",
+      "code": "https://github.com/Vedant5751/COB-Web-Development/tree/main/Website%20Landing%20Page"
+    }
+  },
+  {
+    "name": "Trained Model & Ouput Prediction",
+    "desc": "Trained Linear Regression Model for a Dataset using Seaborn.",
+    "image": "notystackandroid",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/in/vedant-patil-8767aa275/recent-activity/all/",
+      "code": "https://github.com/Vedant5751/COB-Data-Science/tree/main/Trained%20Model%20%26%20Output%20Prediction"
+    }
+  },
+  {
+    "name": "To-Do List",
+    "desc": "A webapp to add delete and update tasks.",
+    "image": "notystackandroid",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/in/vedant-patil-8767aa275/recent-activity/all/",
+      "code": "https://github.com/Vedant5751/CodeClause/tree/main/To-Do-List"
+    }
+  },
+  {
+    "name": "Unit Converter",
+    "desc": "Made a simple Website to convert basic Units.",
+    "image": "notystackandroid",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/in/vedant-patil-8767aa275/recent-activity/all/",
+      "code": "https://github.com/Vedant5751/COB-Web-Development/tree/main/Unit%20Converter"
+    }
+  },
+  {
+    "name": "API to CSV",
+    "desc": "Created a CSV dataset after calling an API.",
+    "image": "notystackandroid",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/in/vedant-patil-8767aa275/recent-activity/all/",
+      "code": "https://github.com/Vedant5751/COB-Data-Science/tree/main/API_to_CSV"
+    }
+  },
+  {
+    "name": "Youtube Clone",
+    "desc": "Made a Youtube Clone using HTML CSS.",
+    "image": "notystackandroid",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/in/vedant-patil-8767aa275/recent-activity/all/",
+      "code": "https://github.com/Vedant5751/CodeClause/tree/main/Youtube%20Clone"
+    }
+  },
+  {
+    "name": "Calculator with GUI",
+    "desc": "Created a Calculator to perform basic arithmetic operations in Python with GUI.",
+    "image": "notystackandroid",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/in/vedant-patil-8767aa275/recent-activity/all/",
+      "code": "https://github.com/Vedant5751/COB-Data-Science/tree/main/Graphs%20Plotted"
+    }
+  },
+  {
+    "name": "ATM Management System",
+    "desc": "Designed an ATM Management system in C++ that can efficiently handle the basic banking transactions of the customers.",
+    "image": "notystackandroid",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/in/vedant-patil-8767aa275/recent-activity/all/",
+      "code": "https://github.com/Vedant5751/COB-Data-Science/tree/main/Graphs%20Plotted"
+    }
+  }
+]
